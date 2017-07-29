@@ -49,11 +49,11 @@ public class terrainModifier : MonoBehaviour
         zaehler = GameObject.Find("CanvasManager").GetComponent<canvasManager>().counter;
         plantzaehler = GameObject.Find("CanvasManager").GetComponent<canvasManager>().pflanzenzaehler;
         steinzaehler = GameObject.Find("CanvasManager").GetComponent<canvasManager>().rockzaehler;
-        heightmaps.Add("heightmap1.r16");
-        heightmaps.Add("heightmap2.r16");
-        heightmaps.Add("heightmap3.r16");
-        heightmaps.Add("heightmap5.r16");
-        heightmaps.Add("heightmap6.r16");
+        heightmaps.Add("Assets/Resources/heightmap1.r16");
+        heightmaps.Add("Assets/Resources/heightmap2.r16");
+        heightmaps.Add("Assets/Resources/heightmap3.r16");
+        heightmaps.Add("Assets/Resources/heightmap5.r16");
+        heightmaps.Add("Assets/Resources/heightmap6.r16");
         foliage.Add(plantprefab1);
         foliage.Add(plantprefab2);
         foliage.Add(plantprefab3);
