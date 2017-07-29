@@ -1,0 +1,28 @@
+# Blender MTL File: 'tree.blend'
+# Material Count: 2
+
+newmtl branches
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Texturen\Foliage\TexturesCom_Branches0018_1_alphamasked_S.png
+map_Ks C:\\Texturen\\Foliage\\TexturesCom_Branches0018_1_alphamasked_S.png
+map_d C:\\Texturen\\Foliage\\TexturesCom_Branches0018_1_alphamasked_S.png
+
+newmtl treebark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 5.000000 5.000000 1.000000 C:\\Texturen\\Foliage\\TexturesCom_BarkDecidious0194_1_seamless_S_normal.png
+map_Kd -s 5.000000 5.000000 1.000000 C:\\Texturen\\Foliage\\TexturesCom_BarkDecidious0194_1_seamless_S.jpg
+map_Ks -s 5.000000 5.000000 1.000000 C:\\Texturen\\Foliage\\TexturesCom_BarkDecidious0194_1_seamless_S.jpg
